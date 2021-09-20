@@ -54,3 +54,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+remote_theme: pages-themes/minimal@v0.2.0
